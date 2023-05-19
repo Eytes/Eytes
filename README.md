@@ -10,16 +10,29 @@
   <div class='education_list'>
     <ul>
       <li>
-        2018 - 2019: MIPT Correspondence School of Physics and Technology in the programs of additional education of scientific and technical orientation (physics, mathematics);
+        <pre>2018 - 2019:
+          MIPT Correspondence School of Physics and Technology 
+          in the programs of additional education of scientific 
+          and technical orientation (physics, mathematics);</pre>
       </li>
       <li>
-        2019: Artificial Intelligence Jorney Conference (Study of the development of artificial intelligence and areas where it can be used to automate and accelerate processes);
+         <pre>2019:
+         Artificial Intelligence Jorney Conference (Study of the
+         development of artificial intelligence and areas where 
+         it can be used to automate and accelerate processes);</pre>
       </li>
       <li>
-        2022: Summer School-Conference "Cryptography and Information Security" Novosibirsk State University (Learning the basics of the Bitcoin blockchain system and in-depth acquisition of skills to work with the Ethereum blockchain system. Acquisition of basic skills for writing smart contracts in the Solidity language for working with Ethereum);
+         <pre>2022:
+         Summer School-Conference "Cryptography and Information Security" 
+         Novosibirsk State University (Learning the basics of the Bitcoin 
+         blockchain system and in-depth acquisition of skills to work 
+         with the Ethereum blockchain system. Acquisition of basic skills 
+         for writing smart contracts in the Solidity language for working 
+         with Ethereum);</pre>
       </li>
       <li>
-        
+        <pre>2019 – present:
+        University: I. Kant BFU, specialty cybersecurity</pre>
       </li>
     </ul>
   </div>
