@@ -10,19 +10,19 @@
   <ul>
     <li>
       2018 - 2019:<br>
-      MIPT Correspondence School of Physics and Technology in the programs of additional education of scientific and technical orientation (physics, mathematics);
+      MIPT Correspondence School of Physics and Technology in the programs of additional education of scientific and technical orientation (physics, mathematics)
     </li>
     <li>
       2019:<br>
-      Artificial Intelligence Jorney Conference;
+      Artificial Intelligence Jorney Conference
     </li>
     <li>
       2022:<br>
-      Summer School-Conference "Cryptography and Information Security" Novosibirsk State University;
+      Summer School-Conference "Cryptography and Information Security" Novosibirsk State University
     </li>
     <li>
       2019 – present:<br>
-      University: I. Kant BFU, specialty cybersecurity;
+      University: I. Kant BFU, specialty cybersecurity
     </li>
   </ul>
 </section>
