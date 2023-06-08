@@ -4,6 +4,10 @@
 </h1>
 <h3 align="center">cybersecurity student, developer :computer:</h3>
 
+Lang:
+-----
+- [RU](#образование)
+- [ENG](#education)
 
 Education:
 ----------
@@ -18,6 +22,21 @@ Education:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyber Studies CODE IS (information security) and PRACTICES
 * 2019 – present:\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University: I. Kant BFU, specialty cybersecurity
+---
+
+Образование:
+------------
+* 2018 - 2019:\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Заочная физико-техническая школа МФТИ по программам дополнительного образования научно-технической направленности (физика, математика)
+* 2019:\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Конференция по развитию в области искусственного интеллекта
+* 2022:\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Летняя школа-конференция "Криптография и информационная безопасность" Новосибирского государственного университета
+* 08.06.2023:\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Киберучения КОД ИБ (информационная безопасность) и PRACTICES
+* 2019 – настоящее время:\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Университет_: БФУ им. И. Канта\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Специальность_: Компьютерная безопасность
 <!--
 tab = &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
