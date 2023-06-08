@@ -21,6 +21,10 @@
       Summer School-Conference "Cryptography and Information Security" Novosibirsk State University
     </li>
     <li>
+      08.06.2023:<br>
+      Cyber Studies CODE IS (information security) and PRACTICES
+    </li>
+    <li>
       2019 – present:<br>
       University: I. Kant BFU, specialty cybersecurity
     </li>
