@@ -21,7 +21,8 @@ Education:
 * 08.06.2023:\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyber Studies CODE IS (information security) and PRACTICES
 * 2019 – present:\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University: I. Kant BFU, specialty cybersecurity
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_University_: I. Kant BFU\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Specialty_: cybersecurity
 ---
 
 Образование:
