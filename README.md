@@ -2,7 +2,7 @@
   Hi there, I'm Yury 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">cybersecurity student, developer :computer:</h3>
+<h3 align="center">DevSecOps, AppSec, Backend developer :computer:</h3>
 
 Lang:
 -----
